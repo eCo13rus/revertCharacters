@@ -1,0 +1,2 @@
+#!/bin/bash
+./vendor/bin/phpunit /home/eco13/revertCharacters/tests "$@"

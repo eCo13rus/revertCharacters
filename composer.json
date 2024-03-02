@@ -1,0 +1,19 @@
+{
+    "name": "eco13/revert-characters",
+    "autoload": {
+        "psr-4": {
+            "Eco13\\RevertCharacters\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ilya Shirokov",
+            "email": "asd.mat@mail.ru"
+        }
+    ],
+    "require": {},
+    
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
